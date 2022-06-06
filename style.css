@@ -199,9 +199,10 @@ flex-wrap: wrap;
 
 
 #product1  .pro:hover {
-    box-shadow: 20px 20px  30px rgba(0, 0, 0, 0.06);
+    box-shadow: 20px 20px  30px rgba(0, 0, 0, 0.06)
     
 }
+
 #product1 .pro img {
     width: 100%;
     border-radius: 20px;
